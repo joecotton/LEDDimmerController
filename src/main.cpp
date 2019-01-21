@@ -31,7 +31,7 @@ SimpleTimer simpTimer1;
 
 // Spotlight VirtSpot[MAX_LIGHTS + 1];
 
-U8G2_SSD1306_128X32_UNIVISION_1_HW_I2C u8g2(U8G2_R2, /* reset=*/U8X8_PIN_NONE); // Adafruit ESP8266/32u4/ARM Boards + FeatherWing OLED
+U8G2_SSD1306_128X32_UNIVISION_1_HW_I2C u8g2(U8G2_R2, /* reset=*/U8X8_PIN_NONE);
 
 void setup() {
 
